@@ -133,10 +133,10 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏─────────────────⬣
 ┆         《 BOT INFO 》
 ┗┬──────────────┈ ⳹
-┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : 𝑃𝑢𝑡𝑏𝑜𝑡𝑧
+┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : 𝘈𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴
 ┆┆⚘ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛
 ┆┆⚘ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛
-┆┆http://wa.me/60147366955
+┆┆http://wa.me/601123559717
 ┆┆⚘ 𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${date}
 ┆┆⚘ 𝙹𝚊𝚖: ${time} WIB
 ┆┆⚘ 𝙼𝚘𝚍𝚎: 「 ${mode}  」
@@ -160,7 +160,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let ftt = `NOTE 📮 JIKA MENEMUKAN BUG/FITUR EROR SILAHKAN CHAT OWNER KAK JANGAN LUPA SUSCRIBE YOUTUBE BOT SEBAGAI BENTUK SUPORT BOT
 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"60147366955".split("@")[0]}*`;
+ *Powered By @${"601123559717".split("@")[0]}*`;
   const listMessage = {
     text: `𝙷𝚊𝚒 ${name} Jangan 𝚂𝚙𝚊𝚖 𝚈𝚊`.trim(),
     footer: "Jangan Lupa Folow Tiktok Ku Yah Kak >//<",
