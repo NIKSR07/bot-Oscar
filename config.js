@@ -1,11 +1,11 @@
 global.you = ['60147366955'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/I5Kz3Abawc5DqyBSDoYvKB'
-global.rowner = ['60147366955'] // Real Owner Bot
-global.owner = ['60147366955'] // Owner Bot
-global.police = ['60147366955'] // Police Bot
-global.mods = ['60147366955']  // Want some help?
-global.prems = ['60147366955'] // Premium user has unlimited limit
+global.rowner = ['601123559717'] // Real Owner Bot
+global.owner = ['601123559727'] // Owner Bot
+global.police = ['601123559717'] // Police Bot
+global.mods = ['601123559717']  // Want some help?
+global.prems = ['601123559717'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
 global.instagram = 'https://instagram.com/Jarotr_'
 
-global.helper = ['60147366955']
+global.helper = ['601123559717']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -84,9 +84,9 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = '𝑃𝑢𝑡𝑏𝑜𝑡𝑧'
-global.author = '𝑃𝑢𝑡𝑏𝑜𝑡𝑧'
-global.wm = '© 𝑃𝑢𝑡𝑏𝑜𝑡𝑧'
+global.packname = '𝘈𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴'
+global.author = '𝘈𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴'
+global.wm = '© 𝘈𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
